@@ -1,0 +1,3 @@
+Comm_ID,Date,Site,Topic,Audience,Channel,Urgency,Message_Owner,Action_Required,Action_Owner,Action_Due,Resolution_Date,Status
+COM-001,2026-02-03,Clinic-A,Infusion Pump Calibration Reminder,Nurses + Medical Assistants,Daily Huddle,Medium,Site Manager,Confirm all device logs updated,Biomed Lead,2026-02-05,2026-02-04,Closed
+COM-002,2026-02-04,All Sites,Updated Prior Auth Documentation Checklist,Front Desk + Billing,Email + Teams,High,Revenue Cycle Lead,Implement new checklist template,Site Supervisors,2026-02-10,,Open

@@ -1,0 +1,4 @@
+Period,Clinic_Site,Metric,Actual_USD,Budget_USD,Variance_USD,Variance_Percent,Owner,Corrective_Action,Action_Due
+2026-01,Clinic-A,Gross_Revenue,245000,250000,-5000,-2.0,Finance Manager,Increase referral outreach with partner psychiatrists,2026-02-20
+2026-01,Clinic-A,Payroll_Cost,98000,92000,6000,6.5,Operations Manager,Reduce overtime by adjusting Friday staffing grid,2026-02-15
+2026-01,Clinic-B,Medication_Cost,32000,30000,2000,6.7,Site Manager,Renegotiate supplier pricing and review wastage,2026-02-25

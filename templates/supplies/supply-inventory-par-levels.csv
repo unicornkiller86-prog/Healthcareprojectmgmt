@@ -1,0 +1,4 @@
+Item_ID,Item_Name,Category,Clinic_Site,Storage_Location,Vendor,Lead_Time_Days,Current_Qty,Par_Level_Min,Reorder_Qty,Unit_Cost_USD,Lot_Number,Expiry_Date,Status,Owner
+SUP-001,Normal Saline 500mL,Clinical Consumable,Clinic-A,Supply Room Cabinet 2,MedSupply Co,5,42,30,60,3.20,NS500-2611,2026-11-30,OK,Site Manager
+SUP-002,IV Catheter 20G,Clinical Consumable,Clinic-B,Procedure Room Drawers,AcuteMed,7,110,120,200,0.85,CAT20-2608,2026-08-15,Below Par,Charge Nurse
+SUP-003,N95 Masks,General PPE,Clinic-A,Front Storage Shelf 1,SafetyPro,4,300,200,400,1.10,N95-2701,2027-01-31,OK,Operations Coordinator
